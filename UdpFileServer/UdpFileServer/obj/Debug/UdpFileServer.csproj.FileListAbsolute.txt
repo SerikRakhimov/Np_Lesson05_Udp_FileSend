@@ -1,0 +1,14 @@
+c:\users\рахимовс\source\repos\UdpFileServer\UdpFileServer\bin\Debug\UdpFileServer.exe.config
+c:\users\рахимовс\source\repos\UdpFileServer\UdpFileServer\bin\Debug\UdpFileServer.exe
+c:\users\рахимовс\source\repos\UdpFileServer\UdpFileServer\bin\Debug\UdpFileServer.pdb
+c:\users\рахимовс\source\repos\UdpFileServer\UdpFileServer\obj\Debug\UdpFileServer.csprojAssemblyReference.cache
+c:\users\рахимовс\source\repos\UdpFileServer\UdpFileServer\obj\Debug\UdpFileServer.csproj.CoreCompileInputs.cache
+c:\users\рахимовс\source\repos\UdpFileServer\UdpFileServer\obj\Debug\UdpFileServer.exe
+c:\users\рахимовс\source\repos\UdpFileServer\UdpFileServer\obj\Debug\UdpFileServer.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\UdpFileServer\UdpFileServer\bin\Debug\UdpFileServer.exe.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\UdpFileServer\UdpFileServer\bin\Debug\UdpFileServer.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\UdpFileServer\UdpFileServer\bin\Debug\UdpFileServer.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\UdpFileServer\UdpFileServer\obj\Debug\UdpFileServer.csprojResolveAssemblyReference.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\UdpFileServer\UdpFileServer\obj\Debug\UdpFileServer.csproj.CoreCompileInputs.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\UdpFileServer\UdpFileServer\obj\Debug\UdpFileServer.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\UdpFileServer\UdpFileServer\obj\Debug\UdpFileServer.pdb

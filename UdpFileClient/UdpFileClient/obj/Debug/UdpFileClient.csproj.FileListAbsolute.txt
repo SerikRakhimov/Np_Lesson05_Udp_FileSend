@@ -1,0 +1,30 @@
+c:\users\рахимовс\source\repos\UdpFileClient\UdpFileClient\obj\Debug\UdpFileClient.csprojAssemblyReference.cache
+c:\users\рахимовс\source\repos\UdpFileClient\UdpFileClient\obj\Debug\MainWindow.g.cs
+c:\users\рахимовс\source\repos\UdpFileClient\UdpFileClient\obj\Debug\App.g.cs
+c:\users\рахимовс\source\repos\UdpFileClient\UdpFileClient\obj\Debug\UdpFileClient_MarkupCompile.cache
+c:\users\рахимовс\source\repos\UdpFileClient\UdpFileClient\obj\Debug\UdpFileClient_MarkupCompile.lref
+c:\users\рахимовс\source\repos\UdpFileClient\UdpFileClient\bin\Debug\UdpFileClient.exe.config
+c:\users\рахимовс\source\repos\UdpFileClient\UdpFileClient\bin\Debug\UdpFileClient.exe
+c:\users\рахимовс\source\repos\UdpFileClient\UdpFileClient\bin\Debug\UdpFileClient.pdb
+c:\users\рахимовс\source\repos\UdpFileClient\UdpFileClient\obj\Debug\MainWindow.baml
+c:\users\рахимовс\source\repos\UdpFileClient\UdpFileClient\obj\Debug\UdpFileClient.g.resources
+c:\users\рахимовс\source\repos\UdpFileClient\UdpFileClient\obj\Debug\UdpFileClient.Properties.Resources.resources
+c:\users\рахимовс\source\repos\UdpFileClient\UdpFileClient\obj\Debug\UdpFileClient.csproj.GenerateResource.cache
+c:\users\рахимовс\source\repos\UdpFileClient\UdpFileClient\obj\Debug\UdpFileClient.csproj.CoreCompileInputs.cache
+c:\users\рахимовс\source\repos\UdpFileClient\UdpFileClient\obj\Debug\UdpFileClient.exe
+c:\users\рахимовс\source\repos\UdpFileClient\UdpFileClient\obj\Debug\UdpFileClient.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\UdpFileClient\UdpFileClient\bin\Debug\UdpFileClient.exe.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\UdpFileClient\UdpFileClient\bin\Debug\UdpFileClient.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\UdpFileClient\UdpFileClient\bin\Debug\UdpFileClient.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\UdpFileClient\UdpFileClient\obj\Debug\UdpFileClient.csprojResolveAssemblyReference.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\UdpFileClient\UdpFileClient\obj\Debug\MainWindow.g.cs
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\UdpFileClient\UdpFileClient\obj\Debug\App.g.cs
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\UdpFileClient\UdpFileClient\obj\Debug\UdpFileClient_MarkupCompile.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\UdpFileClient\UdpFileClient\obj\Debug\UdpFileClient_MarkupCompile.lref
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\UdpFileClient\UdpFileClient\obj\Debug\MainWindow.baml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\UdpFileClient\UdpFileClient\obj\Debug\UdpFileClient.g.resources
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\UdpFileClient\UdpFileClient\obj\Debug\UdpFileClient.Properties.Resources.resources
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\UdpFileClient\UdpFileClient\obj\Debug\UdpFileClient.csproj.GenerateResource.Cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\UdpFileClient\UdpFileClient\obj\Debug\UdpFileClient.csproj.CoreCompileInputs.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\UdpFileClient\UdpFileClient\obj\Debug\UdpFileClient.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\UdpFileClient\UdpFileClient\obj\Debug\UdpFileClient.pdb
